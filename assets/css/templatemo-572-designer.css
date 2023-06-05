@@ -57,7 +57,7 @@ button.main-button {
     text-transform: capitalize;
     font-weight: 400;
     color: #ffffff;
-    background-color: #7c3200;
+    background-color: #ff7b00;
     padding: 11px 25px;
     border-radius: 7.5px;
     display: inline-block;
@@ -76,7 +76,7 @@ button.main-button:hover {
     text-transform: capitalize;
     font-weight: 400;
     color: #ffffff;
-    background-color: #7c3200;
+    background-color: #ff7b00;
     padding: 11px 25px;
     border-radius: 7.5px;
     display: inline-block;
@@ -103,7 +103,7 @@ button.main-button:hover {
 
 .white-button a:hover {
     color: #ffffff;
-    background-color: #7c3200;
+    background-color: #ff7b00;
 }
 
 section {
@@ -150,7 +150,7 @@ section {
 .section-heading h2 em::before {
     width: 80px;
     height: 2px;
-    background-color: #7c3200;
+    background-color: #ff7b00;
     content: '';
     position: absolute;
     left: 0;
@@ -177,7 +177,7 @@ section {
 
 .loader svg path,
 .loader svg rect {
-    fill: #7c3200;
+    fill: #ff7b00;
 }
 
 .main-navigation {
@@ -299,7 +299,7 @@ header.nav-scrolled .main-navigation .navbar-nav .nav-item .active {
 
 .navbar-light .navbar-nav .nav-item .active {
     font-weight: 400;
-    color: #7c3200;
+    color: #ff7b00;
     background-color: transparent;
     border-radius: 0px;
     border-top: none;
@@ -310,7 +310,7 @@ header.nav-scrolled .main-navigation .navbar-nav .nav-item .active {
         background-color: #ffffff;
         border-bottom-left-radius: 7px;
         border-bottom-right-radius: 7px;
-        border-top: 2px solid #7c3200;
+        border-top: 2px solid #ff7b00;
     }
 }
 
@@ -783,7 +783,7 @@ footer ul.social-links li a svg {
 }
 
 footer ul.social-links li a:hover {
-    color: #7c3200;
+    color: #ff7b00;
 }
 
 footer ul.social-links li:last-child {
@@ -839,7 +839,7 @@ footer .sub-footer a.scroll-to-top {
     width: 100%;
     display: inline-block;
     font-size: 15px;
-    color: #7c3200;
+    color: #ff7b00;
     -webkit-transition: all .5s;
     transition: all .5s;
 }
@@ -920,7 +920,7 @@ footer .sub-footer a.scroll-to-top:hover {
 }
 
 .services .service-item .icon {
-    fill: #7c3200;
+    fill: #ff7b00;
 }
 
 .services .service-item h4 {
@@ -1056,7 +1056,7 @@ section.interior-design .right-content .accordion-body {
     position: absolute;
     left: 30px;
     top: -20px;
-    fill: #7c3200;
+    fill: #ff7b00;
 }
 
 .what-they-say .testimonial-item h4 {
@@ -1123,11 +1123,11 @@ section.interior-design .right-content .accordion-body {
 
 .what-they-say .carousel-indicators .active {
     opacity: 1;
-    background-color: #7c3200;
+    background-color: #ff7b00;
 }
 
 .call-to-action {
-    background-color: #7c3200;
+    background-color: #ff7b00;
     margin-top: 120px;
     padding: 45px 0px;
 }
@@ -1302,7 +1302,7 @@ section.explore-item .projects-pagination .right-content h6 {
 }
 
 section.explore-item .projects-pagination .right-content h6:hover {
-    color: #7c3200;
+    color: #ff7b00;
 }
 
 section.explore-item .projects-pagination .right-content span {
@@ -1394,7 +1394,7 @@ section.trending-page .trending-item .thumb {
 }
 
 section.trending-page .trending-item .thumb span.banner {
-    background-color: #7c3200;
+    background-color: #ff7b00;
     color: #ffffff;
     font-size: 14px;
     padding: 10px 16px;
@@ -1420,7 +1420,7 @@ section.trending-page .trending-item .thumb .hover-effect .inner-content {
     padding: 20px 30px;
     border-bottom-left-radius: 7.5px;
     border-bottom-right-radius: 7.5px;
-    background-color: #7c3200;
+    background-color: #ff7b00;
 }
 
 section.trending-page .trending-item .thumb .hover-effect .inner-content h4 {
@@ -1538,7 +1538,7 @@ section.contact-us-page .right-info ul li {
     width: 100%;
     padding: 30px;
     border-radius: 7.5px;
-    background-color: #7c3200;
+    background-color: #ff7b00;
     text-align: center;
     margin-bottom: 30px;
 }
